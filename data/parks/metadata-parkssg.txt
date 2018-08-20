@@ -1,0 +1,37 @@
+# Metadata for Parks@SG
+---
+Identifier: 'b3ff18c4-9fc1-4812-993b-8e3b000d2290'
+Name: 'parkssg'
+Title: 'Parks@SG'
+Description: 'Places to relax and for light exercises in Singapore'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Fitness Corners'
+  - 'Green Spaces'
+  - 'OneMap'
+  - 'Parks'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'Jeffrey Ng'
+    Department: 'Health Promotion Board'
+    Email: 'aileen_koh@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2017-03-30T03:58:44.920840'
+Resources:
+  -
+    Identifier: '42662ff5-321c-423e-a0fc-1282bf32e2b5'
+    Title: 'Parks@SG (KML)'
+    Url: 'https://geo.data.gov.sg/relaxsg/2014/04/17/kml/relaxsg.zip'
+    Format: 'KML'
+    Last Updated: '2014-04-16T16:00:00'
+  -
+    Identifier: 'c120dd29-cbf3-4a5e-bf71-3f4a2d31c074'
+    Title: 'Parks@SG (SHP)'
+    Url: 'https://geo.data.gov.sg/relaxsg/2014/04/17/shp/relaxsg.zip'
+    Format: 'SHP'
+    Last Updated: '2014-04-16T16:00:00'

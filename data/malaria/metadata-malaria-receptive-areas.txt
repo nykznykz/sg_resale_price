@@ -1,0 +1,35 @@
+# Metadata for Malaria Receptive Areas
+---
+Identifier: '6bb98102-ef4f-45bf-8d6a-e947cec1648f'
+Name: 'malaria-receptive-areas'
+Title: 'Malaria Receptive Areas'
+Description: 'Areas that are receptive to Malaria transmission'
+Topics:
+  - 'Environment'
+  - 'Health'
+Keywords:
+  - 'Malaria'
+Publisher:
+  Name: 'National Environment Agency'
+  Admin 1:
+    Name: 'Wong Jane'
+    Department: 'National Environment Agency'
+    Email: 'wong_kit_yin@nea.gov.sg'
+Sources:
+  - 'National Environment Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Last Updated: '2016-04-28T05:30:21.666601'
+Resources:
+  -
+    Identifier: 'b83011d3-fc69-40ea-9143-060dfa09cced'
+    Title: 'Malaria Receptive Areas (KML)'
+    Url: 'https://geo.data.gov.sg/malaria-receptive-areas/2011/03/31/kml/malaria-receptive-areas.zip'
+    Format: 'KML'
+    Last Updated: '2011-03-30T16:00:00'
+  -
+    Identifier: '7c89ebf1-d39d-48fa-972a-c234e70c9b95'
+    Title: 'Malaria Receptive Areas (SHP)'
+    Url: 'https://geo.data.gov.sg/malaria-receptive-areas/2011/03/31/shp/malaria-receptive-areas.zip'
+    Format: 'SHP'
+    Last Updated: '2011-03-30T16:00:00'
